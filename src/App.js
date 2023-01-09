@@ -27,7 +27,7 @@ function Counter() {
      </div>
 
      <div className='reset'>
-        <button onClick={reset}>Reset</button>
+        <button onClick={reset}>reset</button>
         </div>
 
      </div>
